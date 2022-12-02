@@ -1,5 +1,5 @@
 # ONBAR
-Codes and input data used in the article (In review): 
+Codes and input data used in the article: 
 Title: How much sorting is required for a circular low carbon aluminium economy?
 Authors: Julien Pedneault, Guillaume Majeau-Bettez, Manuele Margni
 Journal: Journal of industrial ecology
